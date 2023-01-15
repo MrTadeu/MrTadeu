@@ -14,6 +14,7 @@ Hi, I'm Benno!
 </div>
 <br>
 
+<p align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennovasconcellos@gmail.com?subject=Olá%20Benno%20Vasconcellos)
 <span style="margin: 0px 10px;"></span>
@@ -21,7 +22,7 @@ Hi, I'm Benno!
 <span style="margin: 0px 10px;"></span>
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
 )](https://www.codewars.com/users/MrBenno)
-
+<p>
 
 </p>
 <hr>
