@@ -24,6 +24,8 @@ Welcome to my GitHub profile. I am a student just starting out on my journey to 
 
 <hr>
 
+<div class="tenor-gif-embed" data-postid="15864820" data-share-method="host" data-aspect-ratio="1.33891" data-width="100%"><a href="https://tenor.com/view/flying-space-stars-magic-astronaut-gif-15864820">Flying Space GIF</a>from <a href="https://tenor.com/search/flying-gifs">Flying GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## 📅 Activity
 
 ![Benno's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTadeu&show_icons=true&theme=dark)
