@@ -53,7 +53,6 @@ Hi, I'm Benno!
 </p>
 
 <h2 align="left" dir="auto">📅 Activity</h2>
-![Benno's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTadeu&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTadeu)](https://github.com/anuraghazra/github-readme-stats)
 
