@@ -9,7 +9,7 @@ Hi, I'm Benno!
     <div style="flex: 1;">
     Welcome to my GitHub profile. I am a student just starting out on my journey to become a software developer. I've always been interested in technology and programming, and I finally decided to take the leap and turn my passion into a career. I'm excited to learn and grow as a developer, and I'm always looking for new challenges to tackle. I'm dedicated to continuously learning and staying up-to-date with the latest technologies, but most importantly, I want to have fun and enjoy being a part of this wonderful community. Let's build something great together. I am always open to feedback and collaboration, let's make something amazing!
     </div>
-    <img style="flex: 1;" alt="Space" width="200" src="https://media4.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif">
+    <img  alt="Space" width="200" src="https://media4.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif">
     
 </div>
 <br>
