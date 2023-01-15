@@ -22,6 +22,7 @@ Hi, I'm Benno!
 <span style="margin: 0px 10px;"></span>
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
 )](https://www.codewars.com/users/MrBenno)
+    <p>
 </div>
 
 </p>
