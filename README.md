@@ -21,7 +21,7 @@ Hi, I'm Benno!
 )](https://www.codewars.com/users/MrBenno)
 <p>
     <img style="float: right; width: 30%;" alt="Space" src="https://media4.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif">
-
+<img style="float: right; width: 200px;" alt="Coding" width="30" src="https://media4.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif">
 </p>
 <hr>
 
