@@ -56,6 +56,8 @@ Hi, I'm Benno!
 
 ![Benno's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTadeu&show_icons=true&theme=dark)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTadeu&langs_count=8)](https://github.com/MrTadeu/github-readme-stats)
 
 
