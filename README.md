@@ -24,37 +24,6 @@ Welcome to my GitHub profile. I am a student just starting out on my journey to 
 
 <hr>
 
-## 🗸 Check list
-
-<ul class="contains-task-list">
-    <li class="task-list-item"><input type="checkbox" id="" disabled=""         class="task-list-item-checkbox" checked="">
-    Born (because let's face it, we can't change the past)
-    </li>
-    <li class="task-list-item"><input type="checkbox" id="" disabled=""     class="task-list-item-checkbox">
-    Take a "nap-taking" class and master the art of the power nap, because who doesn't want to be the office nap champion?
-    </li>
-    <li class="task-list-item"><input type="checkbox" id="" disabled=""     class="task-list-item-checkbox">
-    Go on a trip to Mars and bring a hot tub, because space is cold and nothing beats a hot soak in zero gravity.
-    </li>
-    <li class="task-list-item"><input type="checkbox" id="" disabled=""     class="task-list-item-checkbox">
-    Get Married in a hot tub, because why settle for boring old churches when you can have a steamy ceremony?
-    </li>
-    <li class="task-list-item"><input type="checkbox" id="" disabled=""     class="task-list-item-checkbox">
-    Be a bilionere and buy a hot tub, because you can't put a price on luxury, especially in a hot tub.
-    </li>
-    <li class="task-list-item"><input type="checkbox" id="" disabled=""     class="task-list-item-checkbox">
-    Create a sect where everyone plays uno in a hot tub, because cards and hot water just go together.
-    </li>
-    <li class="task-list-item"><input type="checkbox" id="" disabled=""         class="task-list-item-checkbox">
-    Win a hot tub-eating contest, because why not?
-    </li>
-    <li class="task-list-item"><input type="checkbox" id="" disabled=""         class="task-list-item-checkbox">
-    Become the official Hot Tub Ambassador of the world, because it's a real thing, we swear.
-    </li>
-</ul>
-
-<hr>
-
 ## 📅 Activity
 
 ![Benno's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTadeu&show_icons=true&theme=dark)
