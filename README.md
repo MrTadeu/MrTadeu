@@ -5,7 +5,6 @@
 Hi, I'm Benno! 
 <img style="float: left; width: 200px;" alt="Coding" width="30" src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif">
 </h2>
-<table>
   <tr>
     <td><img  width="50%" src='https://media4.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif'></td>
       <td> 
