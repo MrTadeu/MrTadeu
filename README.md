@@ -15,14 +15,12 @@ Hi, I'm Benno!
 <br>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-<p align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennovasconcellos@gmail.com?subject=Olá%20Benno%20Vasconcellos)
 <span style="margin: 0px 10px;"></span>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/benno_vasconcellos/)
 <span style="margin: 0px 10px;"></span>
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
 )](https://www.codewars.com/users/MrBenno)
-    <p>
 </div>
 
 </p>
