@@ -56,4 +56,4 @@ Hi, I'm Benno!
 
 ![Benno's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTadeu&show_icons=true&theme=dracula)
 
-<img height='195px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTadeu&layout=compact&theme=dracula" alt="evander stats"/>
+<img height='100px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTadeu&layout=compact&theme=dracula" alt="evander stats"/>
