@@ -6,7 +6,9 @@ Hi, I'm Benno!
 <img style="float: right; width: 200px;" alt="Coding" width="30" src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif">
 </h2>
 <div>
-    <p style="word-wrap: break-word;" align="left">
+    <p style="word-wrap: break-word;" align="left">  
+        <img align="right" alt="Space" width="250" src="https://media4.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif">
+        <img align="right" alt="Space" width="20" height="200" src="https://assets.jumpseller.com/store/incompleteportraits/themes/101666/options/2963642/SEM%20NADA.png?1523741000">
     Welcome to my GitHub profile. I am a student just starting out on my journey to become a software developer. I've always been interested in technology and programming, and I finally decided to take the leap and turn my passion into a career. I'm excited to learn and grow as a developer, and I'm always looking for new challenges to tackle. I'm dedicated to continuously learning and staying up-to-date with the latest technologies, but most importantly, I want to have fun and enjoy being a part of this wonderful community. Let's build something great together. I am always open to feedback and collaboration, let's make something amazing!
     </p>
 </div>
@@ -19,8 +21,6 @@ Hi, I'm Benno!
 <span style="margin: 0px 10px;"></span>
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
 )](https://www.codewars.com/users/MrBenno)
-<p>
-<img alt="Space" width="30" src="https://media4.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif">
 </p>
 <hr>
 
@@ -58,6 +58,3 @@ Hi, I'm Benno!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTadeu)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
