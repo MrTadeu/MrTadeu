@@ -44,7 +44,7 @@ Always open to **collaboration, interesting projects, and new opportunities.**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,c,cpp,flutter,dart,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,postgres,electron,css,html,bun,docker,nginx,python,c,cpp,cmake,flutter,dart,git,github,figma,vscode,react,vite,tailwind,tauri,threejs,sequelize,redis,adonis,unity,blender" />
 
 </p>
 
