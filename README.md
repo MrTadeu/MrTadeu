@@ -53,11 +53,7 @@ Always open to **collaboration, interesting projects, and new opportunities.**
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrTadeu&show_icons=true&theme=dracula&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTadeu&layout=compact&theme=dracula&hide_border=true" />
-
+[![Benno's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTadeu)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
@@ -70,16 +66,5 @@ Always open to **collaboration, interesting projects, and new opportunities.**
 
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/MrTadeu/MrTadeu/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
+-----------------------------------------------
 ⭐ From [MrTadeu](https://github.com/MrTadeu)
