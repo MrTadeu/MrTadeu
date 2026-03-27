@@ -48,15 +48,6 @@ Always open to **collaboration, interesting projects, and new opportunities.**
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-![Benno's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTadeu)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
